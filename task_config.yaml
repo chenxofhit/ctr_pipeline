@@ -1,6 +1,9 @@
 pipeline:
-  start_time: '16:05'
+  start_time: '02:00'
+  data_path: 'train-data/'
+
 
 model:
+
 
 
